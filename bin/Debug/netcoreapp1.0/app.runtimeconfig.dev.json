@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/Kirill/.nuget/packages"
+      "C:\\Users\\kirill\\.nuget\\packages"
     ]
   }
 }
